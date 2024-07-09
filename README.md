@@ -1,5 +1,7 @@
 Box Size Optimization Project
+
 Project Summary
+
 This project was initiated to address the need for reducing packaging costs in my current workplace, particularly for aftermarket products. It provided a valuable opportunity to hone my skills in data analysis, clustering techniques, and project management. I utilized Python libraries such as pandas and numpy for data manipulation, matplotlib and seaborn for data visualization, and scikit-learn for implementing machine learning algorithms. Through this project, I gained experience in using advanced analytical methods to make data-driven decisions and collaborated effectively with a team to achieve consensus.
 
 Introduction
